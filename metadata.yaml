@@ -1,0 +1,35 @@
+_repo: Poems_37087
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stuart, Muriel
+    alias: Irwin, Muriel Stuart
+    birthdate: 1889
+    deathdate: 1967
+    gutenberg_agent_id: '38634'
+    url: http://www.gutenberg.org/2009/agents/38634
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37087'
+  lccn: '23018360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+tableOfContents: The seed shop -- Man and his makers -- The new Aspasia -- A song
+  for old love -- Sic transit -- Mrs. Effingham's swan song -- Annunciation -- Boys
+  bathing -- Lady Hamilton -- White magic -- In the orchard -- The wood and the shore
+  -- The tryst -- Leda -- The harebell -- Words -- Shrift -- The thief of beauty --
+  Forgotten dead, I salute you -- Madala goes by the orphanage -- Obsession -- Enough
+  -- In memory of Douglas Vernon Cow -- The cloudberry -- To ---- -- For fasting days
+  -- The father -- Andromeda unfettered.
+title: Poems
+url: http://www.gutenberg.org/ebooks/37087
